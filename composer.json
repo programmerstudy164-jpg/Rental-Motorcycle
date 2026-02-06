@@ -1,5 +1,5 @@
 {
-    "name": "Rental/Motorcycle",
+    "name": "rental/motorcycle",
     "description": "My PHP project",
     "require": {
         "php": "^8.0"
