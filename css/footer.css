@@ -1,0 +1,121 @@
+
+        .motorent-footer {
+            background-color: #3b5d50;
+            color: white;
+            font-family: 'Poppins', sans-serif;
+            padding: 40px 0 20px;
+        }
+
+      
+        .footer-brand h2 {
+            color: #f39c12;
+            font-weight: 600;
+            margin-bottom: 15px;
+        }
+        
+        .footer-heading {
+            color: #f39c12;
+            font-size: 1.2rem;
+            font-weight: 600;
+            position: relative;
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+        }
+
+        .footer-heading::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 50px;
+            height: 2px;
+            background: #f39c12;
+        }
+
+        .text-custom-light {
+            color: #ecf0f1; 
+        }
+        
+        .text-custom-gray {
+            color: #bdc3c7;
+        }
+
+        .footer-links ul {
+            padding: 0;
+            list-style: none;
+        }
+
+        .footer-links a {
+            color: #bdc3c7;
+            text-decoration: none;
+            transition: all 0.3s;
+            display: flex;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+
+        .footer-links a i {
+            color: #f39c12;
+            margin-right: 8px;
+            font-size: 0.8rem;
+        }
+
+      
+        .footer-contact ul {
+            padding: 0;
+            list-style: none;
+        }
+
+        .footer-contact li {
+            display: flex;
+            align-items: flex-start;
+            margin-bottom: 15px;
+            color: #ecf0f1;
+        }
+
+        .footer-contact i {
+            color: #f39c12;
+            margin-right: 12px;
+            margin-top: 3px;
+        }
+
+       
+        .social-icon {
+            color: white;
+            background: #34495e;
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            text-decoration: none;
+            transition: all 0.3s;
+            margin-right: 10px;
+        }
+
+     
+        .motorent-footer a:hover {
+            color: #f39c12 !important;
+            text-decoration: none;
+        }
+
+        .footer-links a:hover {
+            transform: translateX(5px);
+        }
+
+      
+        .social-icon:hover {
+            background: #f39c12 !important;
+            transform: translateY(-3px);
+        }
+
+        .footer-bottom {
+            border-top: 1px solid #34495e;
+            padding-top: 20px;
+            margin-top: 20px;
+        }
+        
+        .footer-bottom a {
+            color: #f39c12;
+        }
