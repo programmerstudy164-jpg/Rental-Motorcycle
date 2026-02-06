@@ -1,6 +1,7 @@
 {
     "name": "rental/motorcycle",
     "description": "My PHP project",
+    "license": "MIT",
     "require": {
         "php": "^8.0"
     }
