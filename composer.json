@@ -1,0 +1,7 @@
+{
+    "name": "Rental Motorcycle",
+    "description": "My PHP project",
+    "require": {
+        "php": "^8.0"
+    }
+}
