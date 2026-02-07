@@ -1,8 +1,8 @@
 <?php
-include 'db.php';  // Include your database connection
+include 'db.php'; 
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
-    // Get POST data
+   
     $fname = $_POST['fname'];
     $lname = $_POST['lname'];
     $username = $_POST['username'];
